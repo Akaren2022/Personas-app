@@ -22,7 +22,7 @@
             </div>
             <div class="mb-3">
                 <label for="name" class="form-label">Departamento</label>
-                <input type="text" class="form-control" id="name" aria-describedby="nameHelp" name="name" placeholder="Department name.">
+                <input type="text" class="form-control" id="name" aria-describedby="nameHelp" name="name" placeholder="Nombre de Departamento.">
             </div>
             <label for="department">Pais</label>
             <select class="form-select" id="department" name="code" required>
